@@ -19,17 +19,17 @@ I have professional experience building production-level dashboards and have suc
 
 ### 🛠️ **Featured Projects**
 
-#### 🗳️ **[Online Voting System](https://github.com/YOUR_GITHUB_USERNAME/repo-name)**
+#### 🗳️ **[Online Voting System](https://github.com/tejas588/online-voting-system)**
 *A secure, web-based electronic voting platform designed for transparency.*
 * **Tech:** React, Node.js, Express, MySQL.
 * **Highlights:** Implemented Role-Based Access Control (RBAC) for admins and voters, ensuring secure authentication and real-time vote counting.
 
-#### ⚡ **[Hostel Utility Manager](https://github.com/YOUR_GITHUB_USERNAME/repo-name)**
+#### ⚡ **[Hostel Utility Manager](https://github.com/tejas588/KLU-electcity-bill-management)**
 *A high-performance dashboard for tracking electricity consumption.*
 * **Tech:** React + Vite, JavaScript.
 * **Highlights:** Optimized large dataset rendering using interactive data grids and designed a modular component system for administrative workflows.
 
-#### 🧠 **[Customer & Data Models](https://github.com/YOUR_GITHUB_USERNAME/repo-name)**
+#### 🧠 **[Customer & Data Models]()**
 *Various predictive models and data analysis tools.*
 * **Tech:** Python, Scikit-Learn.
 * **Highlights:** Experience deploying predictive models and solving algorithmic problems using Python.
@@ -39,20 +39,20 @@ I have professional experience building production-level dashboards and have suc
 ### 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Sai Tejas's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas588&show_icons=true&theme=radical&hide_border=true" alt="Sai Tejas's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas588&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas588&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 📫 **Connect with Me**
 
-* [LinkedIn](https://www.linkedin.com/)
-* [Portfolio](#)
+* [LinkedIn](https://www.linkedin.com/in/sai-tejas-repala/)
+* [Portfolio](https://saitejasportfolioview.vercel.app/)
 * [Email](mailto:saitejasrepala@gmail.com)
