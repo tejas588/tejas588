@@ -13,7 +13,7 @@ I have professional experience building production-level dashboards and have suc
 | **Frontend Dev** | React.js, Vite, JavaScript, HTML5, CSS3 |
 | **Backend & DB** | Node.js, Express, Flask, MySQL, Oracle |
 | **Data Science** | Python, Scikit-Learn, Pandas, NumPy, Matplotlib |
-| **Tools & Core** | Git/GitHub, Docker, VS Code, Data Structures (DSA) |
+| **Tools & Core** | Git/GitHub, VS Code, Data Structures (DSA) |
 
 ---
 
