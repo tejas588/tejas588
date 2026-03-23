@@ -1,58 +1,111 @@
-# Hi there, I'm Sai Tejas! 👋
+# Hi, I'm Sai Tejas 👋
 
-I am an Information Technology undergraduate and **Full Stack Developer** with a passion for building scalable web applications. I combine strong engineering fundamentals with **Machine Learning** capabilities to solve real-world problems.
+🚀 **Full Stack Developer | Machine Learning Enthusiast**
+I’m an Information Technology undergraduate passionate about building **scalable web applications** and **data-driven solutions**. I specialize in combining **modern frontend/backend development** with **Machine Learning** to solve real-world problems.
 
-I have professional experience building production-level dashboards and have successfully deployed predictive models. Currently, I am seeking an internship to leverage my skills in **Full Stack Engineering** and **AI**.
-
----
-
-### 🚀 **Current Focus & Tech Stack**
-
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Frontend Dev** | React.js, Vite, JavaScript, HTML5, CSS3 |
-| **Backend & DB** | Node.js, Express, Flask, MySQL, Oracle |
-| **Data Science** | Python, Scikit-Learn, Pandas, NumPy, Matplotlib |
-| **Tools & Core** | Git/GitHub, VS Code, Data Structures (DSA) |
+I have hands-on experience developing **production-level dashboards**, implementing **secure authentication systems**, and deploying **predictive models**.
+Currently seeking internship opportunities in **Full Stack Engineering** and **AI/ML**.
 
 ---
 
-### 🛠️ **Featured Projects**
+## 🚀 Tech Stack
 
-#### 🗳️ **[Online Voting System](https://github.com/tejas588/online-voting-system)**
-*A secure, web-based electronic voting platform designed for transparency.*
-* **Tech:** React, Node.js, Express, MySQL.
-* **Highlights:** Implemented Role-Based Access Control (RBAC) for admins and voters, ensuring secure authentication and real-time vote counting.
+### 💻 Frontend
 
-#### ⚡ **[Hostel Utility Manager](https://github.com/tejas588/KLU-electcity-bill-management)**
-*A high-performance dashboard for tracking electricity consumption.*
-* **Tech:** React + Vite, JavaScript.
-* **Highlights:** Optimized large dataset rendering using interactive data grids and designed a modular component system for administrative workflows.
+React.js • Vite • JavaScript • HTML5 • CSS3
 
-#### 🧠 **[Customer & Data Models]()**
-*Various predictive models and data analysis tools.*
-* **Tech:** Python, Scikit-Learn.
-* **Highlights:** Experience deploying predictive models and solving algorithmic problems using Python.
+### ⚙️ Backend & Databases
+
+Node.js • Express.js  • MongoDB • MySQL • Oracle
+
+### 📊 Data Science & ML
+
+Python • Scikit-Learn • Pandas • NumPy • Matplotlib
+
+### 🛠 Tools & Core
+
+Git • GitHub • VS Code
+Data Structures & Algorithms • OOP • DBMS
 
 ---
 
-### 📈 **GitHub Stats**
+## 🛠️ Featured Projects
+
+### 🏥 Nirupamacare (Health-Tech Platform)
+
+*A full-stack healthcare system for managing appointments and digital prescriptions.*
+**Tech:** React.js (Vite), Supabase, MongoDB
+
+* Built a scalable healthcare platform for doctors and patients
+* Implemented secure OTP authentication using Supabase
+* Designed secure prescription storage using Base64 encoding
+* Enabled efficient data handling with MongoDB
+
+---
+
+### 🗳️ Online Voting System
+
+*A secure web-based voting platform ensuring transparency and reliability.*
+**Tech:** React, Node.js, Express, MySQL
+
+* Implemented Role-Based Access Control (RBAC)
+* Designed real-time vote counting system
+* Built a responsive and secure user interface
+
+---
+
+### ⚡ Hostel Utility Manager
+
+*A dashboard for tracking and managing electricity consumption.*
+**Tech:** React (Vite), JavaScript
+
+* Optimized large dataset rendering with dynamic data grids
+* Built modular components for admin workflows
+* Improved operational efficiency through data visualization
+
+---
+
+### 🧠 Customer Churn Prediction Model
+
+*A machine learning model for predicting customer churn.*
+**Tech:** Python, Scikit-Learn, Pandas
+
+* Achieved high model performance using Random Forest
+* Handled class imbalance using SMOTE
+* Extracted actionable business insights from data
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas588&show_icons=true&theme=radical&hide_border=true" alt="Sai Tejas's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas588&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas588&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas588&layout=compact&theme=radical&hide_border=true" height="160" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas588&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas588&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-### 📫 **Connect with Me**
+## 🎯 Current Focus
 
-* [LinkedIn](https://www.linkedin.com/in/sai-tejas-repala/)
-* [Portfolio](https://saitejasportfolioview.vercel.app/)
-* [Email](mailto:saitejasrepala@gmail.com)
+* Building scalable **full-stack applications**
+* Exploring **AI + Web integration**
+* Practicing **Data Structures & Algorithms**
+* Contributing to real-world development projects
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/sai-tejas-repala/
+* 🌐 Portfolio: https://saitejasportfolioview.vercel.app/
+* 📧 Email: [saitejasrepala@gmail.com](mailto:saitejasrepala@gmail.com)
+
+---
+
+⭐ *Always open to collaboration, learning, and building impactful tech!*
