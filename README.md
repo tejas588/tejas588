@@ -95,6 +95,7 @@ Data Structures & Algorithms • OOP • DBMS
 
 * Building scalable **full-stack applications**
 * Exploring **AI + Web integration**
+* **Machine Learning +Deep Learning**
 * Practicing **Data Structures & Algorithms**
 * Contributing to real-world development projects
 
@@ -105,6 +106,8 @@ Data Structures & Algorithms • OOP • DBMS
 * 🔗 LinkedIn: https://www.linkedin.com/in/sai-tejas-repala/
 * 🌐 Portfolio: https://saitejasportfolioview.vercel.app/
 * 📧 Email: [saitejasrepala@gmail.com](mailto:saitejasrepala@gmail.com)
+* Instagram: tejas_588
+
 
 ---
 
