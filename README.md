@@ -5,9 +5,8 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+RAG+Pipelines+%26+LLM+Apps+%F0%9F%A4%96;End-to-End+ML+%E2%86%92+Cloud+Deployment+%E2%98%81%EF%B8%8F;IoT+Security+on+AWS+%F0%9F%94%92;React+%2B+Node+%2B+Python+%E2%80%94+Full+Stack+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+RAG+Pipelines+%26+LLM+Applications+%F0%9F%A4%96;End-to-End+%E2%86%92+Production+Deployment+%E2%98%81%EF%B8%8F;Generative+AI+%7C+Deep+Learning+%7C+Vector+Search" alt="Typing SVG" />
 </a>
-
 <br/>
 
 <!-- Social badges -->
@@ -27,7 +26,6 @@ tejas = {
     "role"       : "Final-Year B.Tech IT @ Manipal Institute of Technology, Bangalore",
     "cgpa"       : 8.36,
     "focus"      : ["Machine Learning", "Generative AI", "LLM Apps", "IoT Security"],
-    "currently"  : "Building secure CoAP/DTLS IoT systems @ Vallynx Solutions on AWS",
     "building"   : "Multi-PDF RAG Chatbot · Facial Recognition Attendance System",
     "goal"       : "ML Engineer / AI Engineer / Data Scientist role in 2027",
     "open_to"    : "Internships · Research Collabs · SDE Roles",
@@ -43,7 +41,11 @@ tejas = {
 <td width="50%">
 
 ### 🤖 Multi-PDF RAG Chatbot
-**Python · LangChain · Pinecone · Gemini API · HuggingFace**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 RAG pipeline that answers questions across multiple PDFs with context-aware responses. Semantic chunking + Pinecone vector DB + Streamlit UI with source citations.
 
@@ -51,7 +53,9 @@ RAG pipeline that answers questions across multiple PDFs with context-aware resp
 <td width="50%">
 
 ### 🎭 AI Facial Recognition Attendance
-**React · TensorFlow.js · face-api.js · Supabase**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 Real-time edge facial recognition with liveness detection (EAR/MAR anti-spoofing). Dual-storage: Supabase cloud + localStorage offline fallback.
 
@@ -61,24 +65,48 @@ Real-time edge facial recognition with liveness detection (EAR/MAR anti-spoofing
 <td width="50%">
 
 ### 🔐 Secure IoT Communication Layer
-**Java · CoAP · DTLS-PSK · AWS EC2 · Eclipse Californium**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![CoAP](https://img.shields.io/badge/CoAP%2FDTLS-0077B5?style=flat-square&logo=cloudflare&logoColor=white)
 
 Encrypted M2M communication for resource-constrained IoT devices. Production-deployed CoAP server on AWS with Elastic IP & Security Groups.
 
 </td>
 <td width="50%">
 
-### 🗳️ Voter & Utility Dashboards
-**React.js · Node.js · Git**
+### 📉 Customer Churn Prediction Model
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-Two production-deployed React apps — Voter Management System & Electricity Bill Dashboard — with role-based admin dashboards.
+Random Forest model for churn prediction — **F1-score of 0.85**, improving minority-class recall by 15% using SMOTE oversampling.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏥 Nirupamacare — Health-Tech Startup
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+Full-stack health-tech platform with Supabase OTP authentication and secure digital prescription rendering — built with React.js, Vite, and MongoDB.
+
+</td>
+<td width="50%">
+
+### 🗳️ Voter & Utility Dashboards
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+Two production-deployed React apps — Voter Management System & Electricity Bill Dashboard — with role-based admin dashboards and end-to-end architecture.
 
 </td>
 </tr>
 </table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -131,15 +159,22 @@ Two production-deployed React apps — Voter Management System & Electricity Bil
 ---
 
 ## 🏆 Certifications & Achievements
-
-- 🎓 **Machine Learning with Python** — IBM / Coursera
-- 🧠 **Neural Networks & Deep Learning** — deeplearning.ai
-- ✨ **Generative AI Foundations** — Certified
-- 🏅 **24-Hour ACM Hackathon** — Participant
-- 🏐 **Gold Medal** — Intercollegiate Volleyball Tournament
-
+ 
+| 🎓 Certification | 🏛️ Issuer |
+|---|---|
+| [Develop Generative AI Applications: Get Started](https://www.coursera.org/learn/develop-generative-ai-applications-get-started/home/welcome) | Coursera |
+| [Build RAG Applications: Get Started](https://www.coursera.org/learn/build-rag-applications-get-started/home/welcome) | Coursera |
+| Machine Learning with Python | IBM / Coursera |
+| Neural Networks & Deep Learning | deeplearning.ai |
+| Generative AI Foundations | Certified |
+ 
+| 🏅 Achievement | |
+|---|---|
+| 24-Hour ACM Hackathon | Participant |
+| Intercollegiate Volleyball | 🥇 Gold Medal |
+ 
 ---
-
+ 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
