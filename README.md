@@ -25,9 +25,9 @@
 tejas = {
     "role"       : "Final-Year B.Tech IT @ Manipal Institute of Technology, Bangalore",
     "cgpa"       : 8.36,
-    "focus"      : ["Machine Learning", "Generative AI", "LLM Apps", "IoT Security"],
+    "focus"      : ["Machine Learning", "Generative AI", "LLM Apps", "Full Stack"],
     "building"   : "Multi-PDF RAG Chatbot · Facial Recognition Attendance System",
-    "goal"       : "ML Engineer / AI Engineer / Data Scientist role in 2027",
+    "goal"       : "ML Engineer / AI Engineer / Data Scientist/ SDE role in 2027",
     "open_to"    : "Internships · Research Collabs · SDE Roles",
 }
 ```
@@ -107,6 +107,7 @@ Two production-deployed React apps — Voter Management System & Electricity Bil
 </td>
 </tr>
 </table>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
