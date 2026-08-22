@@ -150,13 +150,9 @@ Two production-deployed React apps — Voter Management System & Electricity Bil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejas588&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas588&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas588&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=tejas588&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&hide_total_contributions=false)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 ## 🏆 Certifications & Achievements
